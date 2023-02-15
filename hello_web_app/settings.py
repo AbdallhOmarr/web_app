@@ -30,6 +30,8 @@ SECRET_KEY = os.getenv("SECRET_KEY")
 DEBUG = True
 
 ALLOWED_HOST = ['*']
+# settings.py
+PORT = 8080
 
 
 
